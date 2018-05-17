@@ -43,6 +43,8 @@ public class TokenAdvancedFragment extends BaseFragment {
 
     @OnClick(R.id.requestBt)
     void upload() {
+//        new Ser
+
         tokenUpdated = false;
         swipeRefreshLayout.setRefreshing(true);
         unsubscribe();
