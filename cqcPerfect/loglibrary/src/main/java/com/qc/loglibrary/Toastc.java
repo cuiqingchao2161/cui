@@ -1,5 +1,8 @@
 package com.qc.loglibrary;
 
+import android.content.Context;
+import android.widget.Toast;
+
 /**
  * PackageName: com.qc.loglibrary
  * ClassName: Toastc
@@ -14,4 +17,34 @@ package com.qc.loglibrary;
  * ---------------------------------------------------------------------------------------------
  */
 public class Toastc {
+    private static Context sContext;
+    private static Toast sToast;
+
+    public static void init(Context context)
+    {
+        sContext = context.getApplicationContext();
+        sToast = Toast.makeText(sContext, "", Toast.LENGTH_SHORT);
+    }
+
+
+    public static void s(String msg)
+    {
+        if(sToast == null){
+            return;
+        }
+        sToast.setText(msg);
+        sToast.setDuration(Toast.LENGTH_SHORT);
+        sToast.show();
+    }
+
+
+    public static void l(String msg)
+    {
+        if(sToast == null){
+            return;
+        }
+        sToast.setText(msg);
+        sToast.setDuration(Toast.LENGTH_LONG);
+        sToast.show();
+    }
 }
