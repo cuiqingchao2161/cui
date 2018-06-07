@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5005bcec-9154-48cf-a69e-123b0d99d9a9" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/.gitignore" afterPath="$PROJECT_DIR$/cqcPerfact/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/README.md" afterPath="$PROJECT_DIR$/cqcPerfact/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/.gitignore" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/build.gradle" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/proguard-rules.pro" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/App.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/App.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/BaseFragment.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/BaseFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/MainActivity.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/adapter/ItemListAdapter.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/adapter/ItemListAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/adapter/ZhuangbiListAdapter.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/adapter/ZhuangbiListAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/model/FakeThing.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/model/FakeThing.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/model/FakeToken.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/model/FakeToken.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/model/GankBeauty.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/model/GankBeauty.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/model/GankBeautyResult.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/model/GankBeautyResult.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/model/Item.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/model/Item.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/model/ZhuangbiImage.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/model/ZhuangbiImage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/module/cache_6/CacheFragment.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/module/cache_6/CacheFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/module/cache_6/data/Data.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/module/cache_6/data/Data.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/module/cache_6/data/Database.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/module/cache_6/data/Database.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/module/elementary_1/ElementaryFragment.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/module/elementary_1/ElementaryFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/module/map_2/MapFragment.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/module/map_2/MapFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/module/token_4/TokenFragment.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/module/token_4/TokenFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/module/token_advanced_5/TokenAdvancedFragment.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/module/token_advanced_5/TokenAdvancedFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/module/zip_3/ZipFragment.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/module/zip_3/ZipFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/network/Network.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/network/Network.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/network/api/FakeApi.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/network/api/FakeApi.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/network/api/GankApi.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/network/api/GankApi.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/network/api/ZhuangbiApi.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/network/api/ZhuangbiApi.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/com/rengwuxian/rxjavasamples/util/GankBeautyResultToItemsMapper.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/com/rengwuxian/rxjavasamples/util/GankBeautyResultToItemsMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/mykotlin/KotlinActivity.kt" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/mykotlin/KotlinActivity.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/test/Myservice.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/test/Myservice.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/java/test/TestActivity.java" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/java/test/TestActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/drawable/upload.jpg" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/drawable/upload.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/activity_main.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/dialog_cache.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/dialog_cache.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/dialog_elementary.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/dialog_elementary.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/dialog_map.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/dialog_map.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/dialog_token.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/dialog_token.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/dialog_token_advanced.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/dialog_token_advanced.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/dialog_zip.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/dialog_zip.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/fragment_cache.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/fragment_cache.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/fragment_elementary.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/fragment_elementary.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/fragment_map.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/fragment_map.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/fragment_token.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/fragment_token.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/fragment_token_advanced.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/fragment_token_advanced.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/fragment_zip.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/fragment_zip.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/grid_item.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/grid_item.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/list_item.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/list_item.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/testlayout.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/testlayout.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/layout/tip_bt.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/layout/tip_bt.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/values-w820dp/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/values/colors.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/values/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/values/strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/cqcPerfact/RxJavaSamples-2.x/src/main/res/values/styles.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/build.gradle" afterPath="$PROJECT_DIR$/cqcPerfact/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/gradle.properties" afterPath="$PROJECT_DIR$/cqcPerfact/gradle.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/cqcPerfact/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/cqcPerfact/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/gradlew" afterPath="$PROJECT_DIR$/cqcPerfact/gradlew" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/gradlew.bat" afterPath="$PROJECT_DIR$/cqcPerfact/gradlew.bat" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/images/screenshot_1.png" afterPath="$PROJECT_DIR$/cqcPerfact/images/screenshot_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/images/screenshot_2.png" afterPath="$PROJECT_DIR$/cqcPerfact/images/screenshot_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/images/screenshot_3.png" afterPath="$PROJECT_DIR$/cqcPerfact/images/screenshot_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/images/screenshot_4.png" afterPath="$PROJECT_DIR$/cqcPerfact/images/screenshot_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/images/screenshot_5.png" afterPath="$PROJECT_DIR$/cqcPerfact/images/screenshot_5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/images/screenshot_6.png" afterPath="$PROJECT_DIR$/cqcPerfact/images/screenshot_6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RxJavaSamples-2.x/settings.gradle" afterPath="$PROJECT_DIR$/cqcPerfact/settings.gradle" />
+    </list>
+    <ignored path="cuiqingchaoProj.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="cuiqingchaoProj" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cuiqingchaoProj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cuiqingchaoProj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cuiqingchaoProj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cuiqingchaoProj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cuiqingchaoProj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cqcPerfact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="android.sdk.path" value="D:/Android/sdk" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5005bcec-9154-48cf-a69e-123b0d99d9a9" name="Default" comment="" />
+      <created>1528336680286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528336680286</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="AdbCommander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android WiFi ADB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
