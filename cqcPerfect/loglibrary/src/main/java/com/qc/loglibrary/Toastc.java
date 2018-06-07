@@ -2,16 +2,16 @@ package com.qc.loglibrary;
 
 /**
  * PackageName: com.qc.loglibrary
- * ClassName: Logc
- * Author: linzhongxiang
- * CreateDate: 2018/6/7 16:50
+ * ClassName: Toastc
+ * Author: cuiqingchao
+ * CreateDate: 2018/6/7 19:05
  * Description:
  *
  * -----------------------------------Version Info----------------------------------------------
- * Version: V0.1    UpdateUser: linzhongxiang    UpdateDate: 2018/6/7 16:50   UpdateRemark:
+ * Version: V0.1    UpdateUser: cuiqingchao    UpdateDate: 2018/6/7 19:05   UpdateRemark:
  *
  *
  * ---------------------------------------------------------------------------------------------
  */
-public class Logc {
+public class Toastc {
 }
